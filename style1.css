@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    font-family: Arial;
+    border: border-box;
+}
+
+.navbar{
+    height: 60px;
+    background-color: #0f1111;
+    color: white;
+    display: flex;
+    align-items: center;
+    
+}
+
+.nav-logo{
+height: 50px;
+width: 100px;
+}
+
+.logo{
+    background-image: url("https://www.theindianwire.com/wp-content/uploads/2020/08/Amazon-1.jpg");
+    height: 50px;
+    width: 100px;
+}
+
+.border{
+    border: 2px solid transparent;
+}
+.border:hover{
+    border: 2px solid white;
+}
+
+/** box2 **/
+
+.add-first{
+    color: #cccccc;
+    font-size: 0.85rem;
+}
+
+.add-second{
+    font-size: 1rem;
+
+}
+
+.add-icon{
+    
+    align-items: center;
+}
